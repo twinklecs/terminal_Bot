@@ -1,0 +1,1 @@
+psexec -i -d C:\Users\Twinkle\Desktop\Terminal\Terminal.exe

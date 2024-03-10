@@ -1,0 +1,20 @@
+
+PsExec v2.4 - Execute processes remotely
+Copyright (C) 2001-2022 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+Connecting to 192.168.1.209...
+PsExec v2.4 - Execute processes remotely
+Copyright (C) 2001-2022 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+Connecting to 172.16.122.19...                                                                                                                       Starting PSEXESVC service on 172.16.122.19...                                                                                                                       Copying authentication key to 172.16.122.19...                                                                                                                       Connecting with PsExec service on 172.16.122.19...                                                                                                                       Starting 'Taskkill on 172.16.122.19...                                                                                                                       
+                                                                                                                       PsExec could not start 'Taskkill on 172.16.122.19:
+Не удается найти указанный файл.
+
+PsExec v2.4 - Execute processes remotely
+Copyright (C) 2001-2022 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+Connecting to 172.16.122.19...                                                                                                                       Starting PSEXESVC service on 172.16.122.19...                                                                                                                       Copying authentication key to 172.16.122.19...                                                                                                                       Connecting with PsExec service on 172.16.122.19...                                                                                                                       Starting Taskkill on 172.16.122.19...                                                                                                                       
+Taskkill started on 172.16.122.19 with process ID 10796.
